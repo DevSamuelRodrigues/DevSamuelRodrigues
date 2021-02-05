@@ -5,11 +5,10 @@ Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
-[![Instagram](https://img.shields.io/badge/-viniciusafe-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusafe)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contactviniciusafe@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samuelfreitas_03@hotmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
 ### 💼  Projetos pessoais: 
 * Estudando API's de processamento de pagamentos
@@ -19,7 +18,7 @@ Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
 ### 🌱 Desafios pessoais:
 Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de não ficar preso no trânsito. Alguns desafios que estou impondo a mim mesmo:
 * 📰 Ler livros
-* 🏋️‍♂️ Exercícios Físicos
+* 🏋️‍♂️ Exercitar a mente
 
  ### Técnologias e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
@@ -52,6 +51,7 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
 
 Here are some ideas to get you started:
 
+[![Instagram](https://img.shields.io/badge/-viniciusafe-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusafe)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
