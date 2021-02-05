@@ -1,6 +1,7 @@
 # Olá! :wave:
 
-Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São Paulo,SP**. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em **Sistemas de Informação** e Técnologo em **Análise e Desenvolvimento de Sistemas**.
+Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
+
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
