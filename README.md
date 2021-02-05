@@ -24,7 +24,7 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/vinicius7199?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=vinicius7199&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=DevSamuelRodrigues&show_icons=true&theme=algolia&count_private=true" />
   </a>
  <!-- icons -->
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
