@@ -12,10 +12,10 @@ Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
 
 ### 💼  Projetos pessoais: 
 * Desenvolvendo o projeto Menuboard, atuando como Engenheiro de Software.
-- https://www.wiplay.com.br/menu-board.html
+  https://www.wiplay.com.br/menu-board.html
 
 * Desenvolvendo o Projeto IzyMenu, atuando como COO.
-- https://izymenu.com.br/
+  https://izymenu.com.br/
 
 
 
