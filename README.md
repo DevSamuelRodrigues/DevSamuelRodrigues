@@ -3,7 +3,7 @@
 Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São Paulo,SP**. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em **Sistemas de Informação** e Técnologo em **Análise e Desenvolvimento de Sistemas**.
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-viniciusafe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusafe)
+[![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
 [![Instagram](https://img.shields.io/badge/-viniciusafe-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusafe)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contactviniciusafe@gmail.com)
 
@@ -42,7 +42,7 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
 <img width="50%" height="auto" align="right" alt="Vinicius Andrade github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius7199&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamuelRodrigues&layout=compact" />
 </p>
 
 
