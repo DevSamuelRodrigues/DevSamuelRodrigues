@@ -11,14 +11,18 @@ Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
 ![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
 ### 💼  Projetos pessoais: 
-* Estudando API's de processamento de pagamentos
-* Estudando JavaScript e suas Frameworks
-* Estudando Python
+* Desenvolvendo o projeto Menuboard, atuando como Engenheiro de Software.
+- https://www.wiplay.com.br/menu-board.html
+
+* Desenvolvendo o Projeto IzyMenu, atuando como COO.
+- https://izymenu.com.br/
+
+
 
 ### 🌱 Desafios pessoais:
-Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de não ficar preso no trânsito. Alguns desafios que estou impondo a mim mesmo:
-* 📰 Ler livros
-* 🏋️‍♂️ Exercitar a mente
+Vivemos em tempos desafiadores, onde dormimos 1 hora a mais e diversas pessoas passaram na nossa frente, a tecnologia nós surpreende a cada dia, e nos prova que devemos ter os sonhos mais maluco que ninguém compreende!!!
+
+Usando os desafios como combustível para aprender mais, ensinar mais, amadurecer e buscar o novo!!!
 
  ### Técnologias e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
