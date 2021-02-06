@@ -4,7 +4,7 @@
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
-<h3 align="left">Connect with me::</h3>
+<h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samuelfreitas_03@hotmail.com)
