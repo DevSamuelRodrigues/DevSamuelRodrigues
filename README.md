@@ -1,20 +1,9 @@
 <h2 align="center" style="border: none;">Nice to meet you, I'm Samuel Rodrigues, known as <br> Samuca Dev 🚀 </h2>
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samuelfreitas_03@hotmail.com)
-
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
-### 💼  Projetos pessoais: 
-* Desenvolvendo o projeto Menuboard, atuando como Engenheiro de Software.
-  #### https://www.wiplay.com.br/menu-board.html
-
-* Desenvolvendo o Projeto IzyMenu, atuando como COO.
-  #### https://izymenu.com.br/
-  
-  
 <h3 align="left">Connect with me::</h3>
 
 [![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
