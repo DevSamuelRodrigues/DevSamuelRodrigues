@@ -1,5 +1,4 @@
-<h1 align="center">Nice to meet you, I'm Samuel Rodrigues, known as </h1>
-<h1 align="center">Samuca Dev 🚀</h1>
+<h1 align="center" style="border: none;">Nice to meet you, I'm Samuel Rodrigues, known as <br> Samuca Dev 🚀 </h1>
 
 <br>
 
