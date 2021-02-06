@@ -1,6 +1,5 @@
-# Olá! :wave:
-
-Hello Devs, Prazer sou Samuel Rodrigues, conhecido como SamucaDev.
+<h1 align="center">Nice to meet you, I'm Samuel Rodrigues, known as </h1>
+<h1 align="center">Samuca Dev 🚀</h1>
 
 <br>
 
