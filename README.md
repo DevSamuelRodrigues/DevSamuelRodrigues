@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://www.linkedin.com/in/samuelrodrigues18/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="css3" width="40" height="40"/> </a> <a href="mailto:samuelfreitas_03@hotmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="css3" width="40" height="40"/> </a> </p>
 
 [![Linkedin](https://img.shields.io/badge/-DevSamuelRodrigues-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrodrigues18/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samuelfreitas_03@hotmail.com)
