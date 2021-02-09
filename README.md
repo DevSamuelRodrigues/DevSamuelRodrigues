@@ -4,7 +4,7 @@
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=DevSamuelRodrigues&style=flat)
 
-🚀 I work as a software engineer at WIPLAY. <br>
+🚀 I work as a FullStack developer at WIPLAY. <br>
 👨‍💻 I'm passionate about technologies.
 
 <h3 align="left">Connect with me:</h3>
